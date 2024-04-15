@@ -10,10 +10,4 @@ public class SpringBootReactApplication {
 		SpringApplication.run(SpringBootReactApplication.class, args);
 	}
 
-	/* 
-	 Doubts
-	 map, lambda expression, RuntimeException,
-	 watch video for how to handle exceptions in springboot
-	 video link - https://www.youtube.com/watch?v=gJfrvMWqqKU&t=402s  
-	 */
 }
